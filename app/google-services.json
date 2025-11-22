@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "688834557668",
+    "project_id": "raksha-astra",
+    "storage_bucket": "raksha-astra.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688834557668:android:8da91222b4d8299ed6def1",
+        "android_client_info": {
+          "package_name": "com.example.raksha_astra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjOj3kcizmpcDJotWgdDGJ8a-ToBnbjiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

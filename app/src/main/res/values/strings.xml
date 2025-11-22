@@ -1,0 +1,11 @@
+<resources>
+    <!-- Your existing strings -->
+    <string name="app_name">Raksha Astra</string>
+
+    <!-- Add this line -->
+    <string name="sos_widget_description">Emergency SOS button for Raksha Astra</string>
+<!--    <string name="sos_widget_description">One-tap SOS emergency button</string>-->
+</resources>
+<!--<resources>-->
+<!--    <string name="app_name">Raksha_Astra</string>-->
+<!--</resources>-->
