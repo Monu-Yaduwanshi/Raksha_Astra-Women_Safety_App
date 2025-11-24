@@ -97,7 +97,7 @@ fun ProfileScreen() {
                             .build()
 
                         val request = Request.Builder()
-                            .url("https://api.cloudinary.com/v1_1/dfkfuassi/image/upload")
+                            .url("https://api.cloudinary.com/v1_1/enter cloudinary api here/image/upload")
                             .post(body)
                             .build()
 
