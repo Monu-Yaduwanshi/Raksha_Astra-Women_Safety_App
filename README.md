@@ -22,16 +22,80 @@
 # 📸 App Screenshots  
 *(Replace links with your real images)*  
 
+# 📸 App Screenshots
+
+---
+
+## 🆘 Login
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/35938efc-74a6-4768-a932-b04a77d907e6" width="250" />
-  <img src="![Screenshot_2025-09-03-17-43-02-045_com example raksha_astra](https://github.com/user-attachments/assets/ae211e97-b5b0-489c-b506-0c8d432f6372)" width="250" />
-  <img src="Y![Screenshot_2025-09-03-17-43-02-045_com example raksha_astra](https://github.com/user-attachments/assets/ae211e97-b5b0-489c-b506-0c8d432f6372)" width="250" />
+  <img src="https://github.com/user-attachments/assets/8a6aa8fa-b079-4513-b92a-1ef4c204a9fa" width="250"/>
+  <img src="https://github.com/user-attachments/assets/891e05f7-6673-4be5-87f4-e88b24494e89" width="250"/>
+  <img src="https://github.com/user-attachments/assets/975e7177-e98d-4fce-991b-c4a38fc638bb" width="250"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/873fdd2e-a62a-42de-98cf-4018ef557114" width="250"/>
+  <img src="https://github.com/user-attachments/assets/a148c5d9-a7dc-4757-a423-cd39702b4929" width="250"/>
+  <img src="https://github.com/user-attachments/assets/0845fd26-08ba-4e57-b9d6-014ac4f4c490" width="250"/>
 </p>
 
 ---
 
+## 🚑 SOS
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/94771c61-fb1b-45ca-827e-71c33ad2d007" width="250"/>
+  <img src="https://github.com/user-attachments/assets/00be46f4-dfa3-43d8-ae5b-dc6989594c03" width="250"/>
+  <img src="https://github.com/user-attachments/assets/9544aa71-7862-41c0-9997-1864d79391dc" width="250"/>
+</p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/36ccce2e-6984-4aab-9fb6-7c3bd9a4bf8e" width="250"/>
+</p>
+
+---
+
+## 💊 Map
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/69413935-2bb1-40e0-91ab-acf7fba7e644" width="250"/>
+  <img src="https://github.com/user-attachments/assets/4c8e3312-db5e-4801-b0ea-ce55da0e473a" width="250"/>
+  <img src="https://github.com/user-attachments/assets/2049e260-1ecc-4a34-9816-22dcf6457538" width="250"/>
+</p>
+
+---
+
+## 👤 Login
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/949be9d1-0e35-4d90-8084-5493f85e1dc3" width="250"/>
+  <img src="https://github.com/user-attachments/assets/a90811b7-4ce1-4733-b6b0-ddc0d3f8ad24" width="250"/>
+  <img src="https://github.com/user-attachments/assets/f3ca8847-76bc-43fe-a063-d4be61eba79e" width="250"/>
+</p>
+
+---
+
+## 📊 Dashboard & Other Screens
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7f7c19bc-b659-425b-9270-12a692464bdb" width="250"/>
+  <img src="https://github.com/user-attachments/assets/1fd7cc32-b820-4934-ac55-5754aa303d38" width="250"/>
+  <img src="https://github.com/user-attachments/assets/ec00688c-65ca-4642-8c0e-32a74b4a7ae0" width="250"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/39695219-4b67-46b6-ab3a-fe4d4fa24ff5" width="250"/>
+  <img src="https://github.com/user-attachments/assets/5bcfdfc0-f774-4f74-b006-ca0fa7bd710d" width="250"/>
+</p>
+
+---
+
+<p align="center">
+  ❤️ Built with Kotlin, Jetpack Compose & Firebase
+</p>
+
+---
 
 
 # 🌟 **About the Project**
