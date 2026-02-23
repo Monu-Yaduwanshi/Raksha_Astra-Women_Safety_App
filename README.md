@@ -1,4 +1,4 @@
-![Screenshot_2025-09-03-17-30-09-490_com example raksha_astra](https://github.com/user-attachments/assets/28d9c89a-9b0d-4529-b776-a771817a5b03)<h1 align="center">🚨 RAKSHA ASTRA – Women Safety Android App 🇮🇳</h1>
+<h1 align="center">🚨 RAKSHA ASTRA – Women Safety Android App 🇮🇳</h1>
 <p align="center">
   <img width="512" height="512" alt="Raksha_Astra" src="https://github.com/user-attachments/assets/0c882c16-6559-4471-b818-d51f34faa146" alt="Jeevan Rakshak Logo"/>
 </p>
