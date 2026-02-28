@@ -1,7 +1,5 @@
 <h1 align="center">🚨 RAKSHA ASTRA – Women Safety Android App 🇮🇳</h1>
-<p align="center">
-  <img width="512" height="512" alt="Raksha_Astra" src="https://github.com/user-attachments/assets/0c882c16-6559-4471-b818-d51f34faa146" alt="Jeevan Rakshak Logo"/>
-</p>
+>
 
 
 <p align="center">
@@ -18,6 +16,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img width="512" height="512" alt="Raksha_Astra" src="https://github.com/user-attachments/assets/0c882c16-6559-4471-b818-d51f34faa146" alt="Jeevan Rakshak Logo"/>
+</p
 
 # 📸 App Screenshots  
 *(Replace links with your real images)*  
