@@ -22,7 +22,7 @@
 </p
 
 # 📸 App Screenshots  
-*(Replace links with your real images)*  
+
 
 ---
 
